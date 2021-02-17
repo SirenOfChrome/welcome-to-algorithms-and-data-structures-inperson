@@ -4,4 +4,6 @@ Welcome to algorithms and data structures! In an effort to better prepare you fo
 
 We recommend going through the content in order. Always set a time limit, so you don’t spend too long on a single problem. Remember, your core coursework comes first! You can always work on this when you have free time or even after you graduate.
 
+**Note:** Content in this Data Structures and Algorithms course is not supported by the Ask a Question team.
+
 Good luck and happy coding! You’ve got this!
