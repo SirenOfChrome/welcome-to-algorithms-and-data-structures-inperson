@@ -6,4 +6,6 @@ We recommend going through the content in order. Always set a time limit, so you
 
 **Note:** Content in this Data Structures and Algorithms course is not supported by the Pair with a Coach team.
 
+Access the content by clicking Modules in the nav bar on the left.
+
 Good luck and happy coding! You’ve got this!
